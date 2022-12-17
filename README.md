@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/arshad-ullah-1b4795257/overlay/background-image/
+<!-- https://www.linkedin.com/in/arshad-ullah-1b4795257/overlay/background-image/ -->
 # Hi there 👋, my name is Arshad Ullah
 ## Web Developer
 
