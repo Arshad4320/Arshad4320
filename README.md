@@ -1,15 +1,15 @@
 <!-- https://www.linkedin.com/in/arshad-ullah-1b4795257/overlay/background-image/ -->
-# Hi there 👋, my name is Arshad Ullah
+# Hi there 👋, I am Arshad Ullah
 ## Web Developer
 
 
 I am a web developer and have extensive experience in this sector I like clean and simple designs My goal is to create good quality projects that users can enjoy using I love coding I consider myself a skilled and qualified candidate for the job of Wave Developer Think, and have the confidence to work towards yourself. And I always try my best To finish the work in time with time.
 
 
-Skills: JavaScript ,React ,Node JS ,MongoDB ,Node JS , Express ,Bootstrap ,Tailwind , Desy Ui , HTML5 , CSS3 .
+Skills: JavaScript ,React, Redux,Redux Rtk query ,,MongoDB ,Node JS , Express ,Bootstrap ,Tailwind , Desy Ui , HTML5 , CSS3 .
 
 - 🔭 I’m currently working on React, Node JS , Express JS, MongoDBngodDB 
-- 🌱 I’m currently learning Mongos, Next JS ,Redux  etc 
+- 🌱 I’m currently learning Mongoose , Next JS , etc 
 - 👯 I’m looking to collaborate on HTML5, CSS3, BootStrap, Tailwind, Desy Ui ,React, JavaScript 
 - 💬 Ask me about mdarshadullah835@gmail.com  
 
