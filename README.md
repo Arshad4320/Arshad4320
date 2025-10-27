@@ -2,9 +2,9 @@
 **MERN Stack Developer | Full-Stack Web Developer**  
 
 📍 Chittagong, Bangladesh  
-📧 arshadullah835@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
-🔗 Portfolio: https://your-portfolio.com  
+📧 mdarshadullah835@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/arshad-ullah-1b4795257/
+
 
 ---
 
