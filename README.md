@@ -15,20 +15,6 @@
 
 ---
 
-## 🚀 Selected Projects  
-### [Project Name](https://github.com/Arshad4320/project-link)  
-- Short description: What the project is about  
-- Tech stack: e.g., React + Redux + Node.js + MongoDB  
-- Key features: Authentication, Role-based access, Payment integration etc.  
-- What I learned: E.g., “Implemented secure JWT auth”, “Deployed on Vercel”, “Handled async data fetching”.
-
-### [Another Project Name](https://github.com/Arshad4320/another-link)  
-- Short description…  
-- Tech stack…  
-- Key features…  
-- What I learned…
-
----
 
 ## 🔭 Currently Learning  
 - Advanced TypeScript patterns  
